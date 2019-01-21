@@ -2,10 +2,9 @@
 		xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>ru.runa.wfe</groupId>
-		<artifactId>wfe-app</artifactId>
-		<version>4-SNAPSHOT</version>
-		<relativePath>../wfe-app/pom.xml</relativePath>
+		<groupId>com.github.MadiBreizh</groupId>
+		<artifactId>html-component</artifactId>
+		<version>1.0.4</version>
 	</parent>
 	<groupId>net.sf.jasperreports</groupId>
 	<artifactId>jasperreports-html-component.runawfe</artifactId>
